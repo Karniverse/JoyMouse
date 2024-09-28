@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 ### My sincere thanks to HID-Project from NicoHood which i used to compile this header.
 
 ----------------------------------------------------------------------------------------------------------
 # JoyMouse.h
 
+=======
+# JoyMouse.h
+>>>>>>> c299bb6eaecee27773804c94236b778b7edf8c62
 An Arduino Library to simplify code to control Mouse movement by just declaring two analog pins of dual axis controller
 
 **Supported boards tested so far:**
