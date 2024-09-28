@@ -9,6 +9,8 @@ An Arduino Library to simplify code to control Mouse movement by just declaring 
 * Arduino Leonardo
 * Arduino Leonardo Pro micro
 
+-----------------------------------------------------------------------------------------------------------
+
 just declare the two analog pins of dual axis joystick in setup in this format
 
 ```c
