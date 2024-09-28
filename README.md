@@ -30,4 +30,4 @@ and thats it, connect the ky-023(dual axis joystick) to respective pins and afte
 
 
 ### References
-1. [Joystick Mouse Control](https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/)
+* [Joystick Mouse Control](https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/)
