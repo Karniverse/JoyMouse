@@ -27,3 +27,7 @@ and then call the function in loop
 the same can be seen in example for easy reference
 
 and thats it, connect the ky-023(dual axis joystick) to respective pins and after upload u can control the mouse movement of your device using the joystick.
+
+
+### References
+1. [Joystick Mouse Control](https://docs.arduino.cc/built-in-examples/usb/JoystickMouseControl/)
